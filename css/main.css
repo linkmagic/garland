@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+}
+
+button {
+  width: 150px;
+  height: 32px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#idGarland {
+  display: block;
+  width: 600px;
+  height: 600px;
+}
+
+.lamp {
+  display: block;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 50%;
+  transition: 0.5s;
+}
